@@ -1,0 +1,11 @@
+Joakim For some reasons I cannot rename the Excel tab using SQL Server 2016 
+Bertil Is this product pirated from IT ACADEMY? Script task is exactly the same. Something is not right 
+Bertil I don't see where you created the Script Task parameters that are being picked by the system when doing the binding
+Snygg Is it mandatory that we should start with a SQL Server 2016. I have an SQL Server 2008 installed in my computer 
+Bertil Not working I still cannot save a simple Script Task  
+Snygg Where is the employee.csv file used in Lecture 9 -> Bulk insert demo
+Snygg union and merge What if i insert sort in union all
+Snygg Data Conversion what is the difference between SQL Server 2016 and SQL Server 2008
+Bertil Hi I want to knw whether the text file used in this video is available or not
+Snygg Hi I have not seen any lecture relating to SCD (slowly changing dimension)
+Bertil What is the scenario where we need to use copy transformation in SCD 
